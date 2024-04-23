@@ -28,7 +28,7 @@
 
   </ul>
 <div class="top-btnn">
-  <a href="https://chat.whatsapp.com/HGnDq9xzEfDCl5Irj80QA3" class="h-btn">Official Group</a>
+  <a href="https://chat.whatsapp.com/HGnDq9xzEfDCl5Irj80QA3" class="h-btn">Whatsapp Channel</a>
 </div>
 
 </header>
@@ -42,12 +42,12 @@
 <div class="social">
   <a href="https://www.facebook.com/profile.php?id=100087465396864"><i class="ri-facebook-fill"></i></a>
   <a href="https://www.instagram.com/sla.sher_/"><i class="ri-instagram-fill"></i></a>
-  <a href="https://wa.me/8801975492880"><i class="ri-whatsapp-fill"></i></a>
-  <a href="https://www.youtube.com/@infinite9452"><i class="ri-youtube-fill"></i></a>
+  <a href="https://wa.me/+94743548986"><i class="ri-whatsapp-fill"></i></a>
+  <a href="https://www.youtube.com/@yasiyayt"><i class="ri-youtube-fill"></i></a>
 </div>
 <div class="main-btn">
   <a href="#" class="btn">Pair Code</a>
-  <a href="https://github.com/V-E-N-O-X/Vibranium-Bot" class="btn btn2">Repository</a>
+  <a href="https://github.com/DarkYasiyaofc" class="btn btn2">Repository</a>
 </div>
 
 </div>
